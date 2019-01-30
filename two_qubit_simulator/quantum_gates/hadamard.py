@@ -15,5 +15,6 @@ class Hadamard(QuantumGate):
 
 
         super(Hadamard, self).__init__(unitary_operator, symbol)
+        
 
     pass
